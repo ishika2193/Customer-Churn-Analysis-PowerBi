@@ -134,7 +134,7 @@ Some important columns include:
 
 ### Dashboard Overview
 
-![Dashboard Overview](images/Dashboard-overview.jpeg)
+![Dashboard Overview](images/Dashboard_overview.jpeg)
 
 ### Customer Demographics
 
