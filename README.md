@@ -134,19 +134,19 @@ Some important columns include:
 
 ### Dashboard Overview
 
-![Dashboard Overview](images/Dashboard-overview.png)
+![Dashboard Overview](images/Dashboard-overview.jpeg)
 
 ### Customer Demographics
 
-![Customer Demographics](images/Customer_segmentation.png)
+![Customer Demographics](images/Customer_segmentation.jpeg)
 
 ### Contract Analysis
 
-![Contract Analysis](images/Revenue_insights.png)
+![Contract Analysis](images/Revenue_insights.jpeg)
 
 ### Key Insights
 
-![Key Insights](images/Predictive_analysis.png)
+![Key Insights](images/Predictive_analysis.jpeg)
 
 ---
 
