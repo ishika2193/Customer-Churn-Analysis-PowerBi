@@ -132,12 +132,21 @@ Some important columns include:
 
 ## 📷 Dashboard Preview
 
-```text
-images/
-├── dashboard.png
-├── churn_overview.png
-└── customer_segments.png
-```
+### Dashboard Overview
+
+![Dashboard Overview](images/Dashboard-overview.png)
+
+### Customer Demographics
+
+![Customer Demographics](images/Customer_segmentation.png)
+
+### Contract Analysis
+
+![Contract Analysis](images/Revenue_insights.png)
+
+### Key Insights
+
+![Key Insights](images/Predictive_analysis.png)
 
 ---
 
